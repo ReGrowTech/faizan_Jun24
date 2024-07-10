@@ -1,0 +1,28 @@
+Reverse
+1. Completely reverse the string
+2. Reverse the words in the Sentence
+3. Reverse the words in the Sentence and store it in the same array
+4. Reverse each character of the word in the sentence with words in its own position
+
+Frequency:
+1. Frequency of words
+
+Vowels & Consonents
+1. Find the vowel and consonents and print their count
+
+Space & words
+1. Count the number of spaces
+2. Count the number of words
+
+Alphabet, Digit and Special Character, Whitespace
+1. Count the number of alphabets, digits and special characters
+
+Numbers:
+
+1. Print all the numbers present in the string
+2. Print only the even numbers present in the string
+3. Print the sum of the digits present in the string
+4. Print the sum of only odd numbers present in the string
+
+1.Palindrome String
+

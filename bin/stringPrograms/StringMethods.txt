@@ -1,0 +1,11 @@
+int len = str.length()
+str.toLowerCase()
+str.toUpperCase()
+str.trim()
+str.replaceAll()
+str.replace()
+str.charAt()
+str.split()
+str.substring()
+str.indexOf()
+str.lastIndexOf
